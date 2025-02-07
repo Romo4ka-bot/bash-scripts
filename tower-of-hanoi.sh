@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# Инициализация стеков
 declare -a A=(8 7 6 5 4 3 2 1)
 declare -a B=()
 declare -a C=()
